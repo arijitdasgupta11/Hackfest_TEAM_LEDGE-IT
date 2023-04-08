@@ -1,6 +1,6 @@
 PROBLEM STATEMENT
 ========
-Offline elections, where voters physically cast their ballots have been the traditional method of voting for many years. While offline elections have their advantages, there are several problems associated with this type of voting system:
+Offline elections, where voters physically cast their ballots have always been the traditional method of voting for many years. While offline elections have their advantages, there are several problems associated with this type of voting system:
 1. <b>VOTER INTIMIDATION:</b> In some cases, voters may feel intimidated or coerced at polling stations, especially in situations where there is a history of violence or political unrest.
 2. <b>FRAUD:</b> Offline elections are susceptible to fraudulent activities, such as ballot stuffing, vote buying, and voter impersonation.
 3. <b>ACCESSIBILITY:</b> Offline elections can be challenging for individuals with disabilities or those living in remote areas.
