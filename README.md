@@ -11,7 +11,7 @@ OUR SOLUTION
 Thus, we are coming up with a <b>BLOCKCHAIN BASED DECENTRALIZED ONLINE VOTING APPLICATION SYSTEM</b> to solve all the problems associated with offline voting.
 - A blockchain-based online voting system is a type of electronic voting system that utilizes blockchain technology to ensure secure, transparent, and tamper-proof voting.
 - In a blockchain-based online voting system, each vote is recorded as a transaction on the blockchain, which means that the voting data is encrypted, time-stamped, and distributed across multiple nodes in the network. This makes it virtually impossible for any single entity to alter or manipulate the voting data.
-- Our portal uses aadhaar and voter detials authentication for voter registration purposes.
+- Our portal uses aadhaar and voter details authentication for voter registration purposes.
 - Our portal follows a multi-phase distribution approach, for example - registration ongoing, registration finished, voting ongoing, and voting finished phases allow for better management of the election process, reduces the risk of errors, and ensures that voters have ample time to participate.
 - Considering another layer of security, the voting process involves sending a one-time password (OTP) to the voter's mobile phone, which the voter must enter on the application to verify their identity before they can cast their vote.
 - Restricts EDIT ACCESS of candidate and voter lists to only the admin.
