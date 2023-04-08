@@ -8,7 +8,7 @@ Offline elections, where voters physically cast their ballots have been the trad
 
 OUR SOLUTION
 =====
-Thus, we are coming up with a blockchain based decentralized online voting system to solve all the problems associated with offline voting.
+Thus, we are coming up with a <b>BLOCKCHAIN BASED DECENTRALIZED ONLINE VOTING APPLICATION SYSTEM</b> to solve all the problems associated with offline voting.
 - A blockchain-based online voting system is a type of electronic voting system that utilizes blockchain technology to ensure secure, transparent, and tamper-proof voting.
 - In a blockchain-based online voting system, each vote is recorded as a transaction on the blockchain, which means that the voting data is encrypted, time-stamped, and distributed across multiple nodes in the network. This makes it virtually impossible for any single entity to alter or manipulate the voting data.
 - Our portal uses aadhaar and voter detials authentication for voter registration purposes.
