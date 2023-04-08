@@ -49,7 +49,7 @@ function secondBotMessage() {
     document.getElementById("botStarterMessage2").innerHTML = '<p class="botText"><span>' + second + '</span></p>';
 }
 function thirdBotMessage() {
-    let third = "1. Metamask Issue<br>2. Cannot register as voter<br>3. Cannot vote<br>4. Contact with Admin";
+    let third = "1. How to register as a Voter?<br>2. Facing Metamask Problems<br>3. How to change voter registration address?<br>4. Can Voter give vote after timer expires?<br>5. Facing problem in voter registrtation<br>6. Contact Admin";
     document.getElementById("botStarterMessage3").innerHTML = '<p class="botText"><span>' + third + '</span></p>';
 }
 
@@ -72,7 +72,7 @@ function getResponse() {
     if (userText == "") {
         userText = "Blank Message";
     }
-    else if (userText == '4') {
+    else if (userText == '6') {
         let uname = document.getElementById('uname');
         let email = document.getElementById('email');
         let sbmt = document.getElementById('sbmt');
