@@ -196,7 +196,7 @@ html {
 .nav-content a {
    width: 200px;
    display: block;
-   padding: 8px 6px;
+   padding: 10px 1px;
    border-radius: 4px;
    text-decoration: none;
    background-color: #8f26f1;
