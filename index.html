@@ -1,6 +1,7 @@
 <html>
     <head>
         <title>Team Ledge-IT - Blockchain Based Decentralized Voting Application!</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" type="image/x-icon" href="favicon.png">
         <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="static/css/chat.css">
@@ -12,6 +13,60 @@
 
     </head>
     <body>
+        <!--navbar start-->
+        <div id="thenavbar">
+            <nav id="hamnav">
+                <label for="hamburger">&#9776;</label>
+                <input type="checkbox" id="hamburger"/>
+                <div id="hamitems">
+                    <a href="#navadmin">Admin Portal</a>
+                    <a href="#navcandidate">Candidate Portal</a>
+                    <a href="#navvoter">Voter Portal</a>
+                </div>
+            </nav>
+        </div>
+        <!--navbar end-->
+
+        <!--navbar class-->
+        <div class="nav-content">
+            <div class="navclass">
+                <div id="navadmin">
+                    <h1><i class="fa-solid
+                        fa-user"></i>Admin Portal</h1>
+                    <p>An admin portal in an online voting system is a secure web-based 
+                        interface that allows authorized personnel to manage and oversee the 
+                        election process. The portal is usually accessible only to designated administrators,
+                        who can perform various tasks such as start or stop vote, edit candidate and voter list,
+                        complete the registration process, display candidate and voter list along with 
+                        their hashcode and a lot more.</p>
+                        <a target="_blank" href="http://localhost/Final%20Voting/DAPP/ADMIN/adminportal.php"><i class="fa-solid fa-angles-right"></i> Admin Portal</a>
+                </div>
+
+                <div id="navcandidate">
+                    <h1><i class="fa-sharp
+                        fa-solid fa-user-tie"></i>Candidate Portal</h1>
+                    <p>A candidate portal in an online voting system is a web-based interface that 
+                        allows candidates to manage their campaign, view election information, 
+                        and interact with voters. The portal is only for authorized candidates, 
+                        who can perform various tasks such as register themselves as candidates,
+                        view the candidate list, view result, and voting status, i.e., whether 
+                        its ongoing or over or has not started.</p>
+                        <a target="_blank" href="http://localhost/Final%20Voting/DAPP/CANDIDATE/candidateportal.php"><i class="fa-solid fa-angles-right"></i> Candidate Portal</a>
+                </div>
+
+                <div id="navvoter">
+                    <h1><i class="fa-solid
+                        fa-users"></i>Voter Portal</h1>
+                    <p>The voter portal is a critical component of an online voting application, as 
+                        it provides a secure, accessible, and convenient platform for voters to 
+                        participate in the election process. It enables voters to access information, 
+                        resources, and support services to help them navigate the voting process, 
+                        and to ensure that their vote is counted and recorded correctly.</p>
+                        <a target="_blank" href="http://localhost/Final%20Voting/DAPP/VOTER/voterportal.php"><i class="fa-solid fa-angles-right"></i> Voter Portal</a>
+                </div>
+            </div>
+        </div>
+        <!--navbar class end-->
         <div class="hero">
             <div class="btn-box">
                 <button id="btn1" onclick="openAdmin()"><i class="fa-solid
@@ -33,7 +88,7 @@
                          complete the registration process, display candidate and voter list along with 
                          their hashcode and a lot more.
                     </p>
-                    <a target="_blank" href="">Admin Portal</a>
+                    <a target="_blank" href="http://localhost/Final%20Voting/DAPP/ADMIN/adminportal.php">Admin Portal</a>
 
                 </div>
                 <div class="content-right">
